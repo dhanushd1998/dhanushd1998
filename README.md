@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ![Profile Views](https://komarev.com/ghpvc/?username=manthanank&color=brightgreen)
 ![npm](https://img.shields.io/npm/dt/manthanank)
 ![GitHub followers](https://img.shields.io/github/followers/dhanushd98?label=Follow&style=social)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/dhanushd98)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/dhanushd1998)
 ![GitHub User's stars](https://img.shields.io/github/stars/dhanushd1998?affiliations=OWNER&style=social)
 
 - 💻 I'm a Software Developer.
