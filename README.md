@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ![npm](https://img.shields.io/npm/dt/manthanank)
 ![GitHub followers](https://img.shields.io/github/followers/manthanank?label=Follow&style=social)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/manthanank)
-![GitHub User's stars](https://img.shields.io/github/stars/manthanank?affiliations=OWNER&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/dhanushd1998?affiliations=OWNER&style=social)
 
 - 💻 I'm a Software Developer.
 - 🧑‍💻 I’m currently working on Full Stack projects.
@@ -118,13 +118,13 @@ CSS          41 mins         ▓░░░░░░░░░░░░░░░░
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/dhanushdevadiga)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d_d_devadiga/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dhanush1998)
-
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/dhanushd1998)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dhanushdevadiga98)
 
 ## Support me
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/dhanushdevadiga)
-[![Sponsor me](https://img.shields.io/badge/Sponsor%20me-FFDD00?style=for-the-badge&logo=github-sponsors&logoColor=white)]([https://github.com/sponsors/manthanank])
+[![Sponsor me](https://img.shields.io/badge/Sponsor%20me-FFDD00?style=for-the-badge&logo=github-sponsors&logoColor=white)]([https://github.com/sponsors/dhanushd1998])
 
 ## License
 
