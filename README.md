@@ -1,4 +1,4 @@
-# Hey, I'm Dhanush👋
+# Hey, I'm Dhanush Devadiga👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open-source contributions, and continuous learning. Here's a little about me:
 
