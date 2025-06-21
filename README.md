@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ![Profile Views](https://komarev.com/ghpvc/?username=manthanank&color=brightgreen)
 ![npm](https://img.shields.io/npm/dt/manthanank)
-![GitHub followers](https://img.shields.io/github/followers/manthanank?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/dhanushd98?label=Follow&style=social)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/manthanank)
 ![GitHub User's stars](https://img.shields.io/github/stars/dhanushd1998?affiliations=OWNER&style=social)
 
@@ -24,7 +24,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -40,22 +39,18 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Npm](https://img.shields.io/badge/-Npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![CosmosDB](https://img.shields.io/badge/CosmosDB-0052CE?style=for-the-badge&logo=azurecosmosdb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) -->
 
 ![HTML5](/assets/svg/html.svg)
 ![CSS3](/assets/svg/css.svg)
-![SASS](/assets/svg/sass.svg)
 ![TailwindCSS](/assets/svg/tailwindcss.svg)
 ![Bootstrap](/assets/svg/bootstrap.svg)
 ![JavaScript](/assets/svg/javascript.svg)
