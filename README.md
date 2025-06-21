@@ -44,6 +44,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ![CosmosDB](https://img.shields.io/badge/CosmosDB-0052CE?style=for-the-badge&logo=azurecosmosdb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) -->
@@ -70,6 +71,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ![MongoDB](/assets/svg//mongodb.svg)
 ![Firebase](/assets/svg/firebase.svg)
 ![Figma](/assets/svg/figma.svg)
+![Canva](/assets/svg/canva.svg)
 ![AWS](/assets/svg/aws.svg)
 ![Azure](/assets/svg/azure.svg)
 ![GCP](/assets/svg/googlecloud.svg)
