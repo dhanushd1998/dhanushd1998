@@ -71,7 +71,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ![Firebase](/assets/svg/firebase.svg)
 ![Figma](/assets/svg/figma.svg)
 ![AWS](/assets/svg/aws.svg)
-![Azure](/assets/svg/azure-2.svg)
+![Azure](/assets/svg/azure.svg)
 ![GCP](/assets/svg/googlecloud.svg)
 
 ## Recent Blog Posts
