@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ![Profile Views](https://komarev.com/ghpvc/?username=manthanank&color=brightgreen)
 ![npm](https://img.shields.io/npm/dt/manthanank)
 ![GitHub followers](https://img.shields.io/github/followers/dhanushd98?label=Follow&style=social)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/manthanank)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/dhanushd98)
 ![GitHub User's stars](https://img.shields.io/github/stars/dhanushd1998?affiliations=OWNER&style=social)
 
 - 💻 I'm a Software Developer.
@@ -34,7 +34,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -61,22 +60,18 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ![Python](/assets/svg/python.svg)
 ![Node.js](/assets/svg/nodejs.svg)
 ![Express](/assets/svg/express.svg)
-![Socket.IO](/assets/svg/socketio.svg)
-![Astro](/assets/svg/astro.svg)
 ![Markdown](/assets/svg/markdown.svg)
 ![Git](/assets/svg/git.svg)
 ![GitHub](/assets/svg/github.svg)
 ![Npm](/assets/svg/npm.svg)
-![GitLab](/assets/svg/gitlab.svg)
 ![MySQL](/assets/svg/mysql.svg)
 ![Yarn](/assets/svg/yarn.svg)
 ![Docker](/assets/svg/docker.svg)
-![Nginx](/assets/svg/nginx.svg)
-![Linux](/assets/svg/linux.svg)
 ![MongoDB](/assets/svg//mongodb.svg)
 ![Firebase](/assets/svg/firebase.svg)
 ![Figma](/assets/svg/figma.svg)
 ![AWS](/assets/svg/aws.svg)
+![Azure](/assets/svg/azure-2.svg)
 ![GCP](/assets/svg/googlecloud.svg)
 
 ## Recent Blog Posts
@@ -119,7 +114,7 @@ CSS          41 mins         ▓░░░░░░░░░░░░░░░░
 ## Support me
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/dhanushdevadiga)
-[![Sponsor me](https://img.shields.io/badge/Sponsor%20me-FFDD00?style=for-the-badge&logo=github-sponsors&logoColor=white)]([https://github.com/sponsors/dhanushd1998])
+[![Sponsor me](https://img.shields.io/badge/Sponsor%20me-FFDD00?style=for-the-badge&logo=github-sponsors&logoColor=white)]([https://github.com/sponsors/dhanushd98])
 
 ## License
 
