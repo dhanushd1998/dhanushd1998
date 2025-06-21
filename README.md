@@ -1,4 +1,4 @@
-# Hey, I'm Manthan Ankolekar👋
+# Hey, I'm Dhanush👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open-source contributions, and continuous learning. Here's a little about me:
 
@@ -14,10 +14,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 🧑‍💻 I’m currently working on Full Stack projects.
 - 🌱 I’m currently learning advanced RxJS and Angular state management techniques.
 - 👯 I’m looking to collaborate on Angular-based projects, MEAN stack applications, and real-time collaborative tools.
-- 📄 Check out my [Resume](https://docs.google.com/document/d/1Ba40AaV2Ol5hueeVe5wCI1GeBEtcPJXp3mzm-HZ6BHk/edit?usp=sharing)
+- 📄 Check out my [Resume](https://docs.google.com/document/d/11sC76Q_6oh5pM_LVUjwiPCxsVT7pjAs6hoZoFJf3sLw/edit?usp=sharing)
 - 💬 Ask me about Angular, MEAN stack development, and integrating Tailwind CSS in modern web apps.
-- ✉️ Feel free to reach out to me at [manthan.ank46@gmail.com](mailto:manthan.ank46@gmail.com)
-- 📝 I regularly write articles on [dev.to](https://dev.to/manthanank) and [Hashnode](https://manthanank.hashnode.dev/).
+- ✉️ Feel free to reach out to me at [dhanush.devadiga@outlook.com](dhanush.devadiga@outlook.com)
+- 📝 I regularly write articles on [dev.to](https://dev.to/dhanushdevadiga).
 - ⚡ Fun fact: I’ve built 10+ side projects using the MEAN stack and love exploring creative ways to solve problems!
 
 ## Languages and Tools
@@ -28,36 +28,27 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 ![NgRx](https://img.shields.io/badge/-NgRx-333333?style=for-the-badge&logo=redux&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Deno](https://img.shields.io/badge/-Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
-![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
-![NextJs](https://img.shields.io/badge/-NextJs-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![NestJs](https://img.shields.io/badge/-NestJs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Astro](https://img.shields.io/badge/-Astro-000000?style=for-the-badge&logo=astro&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Npm](https://img.shields.io/badge/-Npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![CosmosDB](https://img.shields.io/badge/CosmosDB-0052CE?style=for-the-badge&logo=azurecosmosdb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Postgresql](https://img.shields.io/badge/-Postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) -->
@@ -68,20 +59,14 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ![TailwindCSS](/assets/svg/tailwindcss.svg)
 ![Bootstrap](/assets/svg/bootstrap.svg)
 ![JavaScript](/assets/svg/javascript.svg)
-![jQuery](/assets/svg/jquery.svg)
 ![Angular](/assets/svg/angular.svg)
 ![Typescript](/assets/svg/typescript.svg)
 ![RxJS](/assets/svg/rxjs.svg)
 ![NgRx](/assets/svg/ngrx.svg)
 ![Python](/assets/svg/python.svg)
-![Flask](/assets/svg/flask.svg)
 ![Node.js](/assets/svg/nodejs.svg)
 ![Express](/assets/svg/express.svg)
 ![Socket.IO](/assets/svg/socketio.svg)
-![Deno](/assets/svg/deno.svg)
-![Gatsby](/assets/svg/gatsby.svg)
-![NextJs](/assets/svg/nextjs.svg)
-![NestJs](/assets/svg/nestjs.svg)
 ![Astro](/assets/svg/astro.svg)
 ![Markdown](/assets/svg/markdown.svg)
 ![Git](/assets/svg/git.svg)
@@ -89,15 +74,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ![Npm](/assets/svg/npm.svg)
 ![GitLab](/assets/svg/gitlab.svg)
 ![MySQL](/assets/svg/mysql.svg)
-![Heroku](/assets/svg/heroku.svg)
 ![Yarn](/assets/svg/yarn.svg)
 ![Docker](/assets/svg/docker.svg)
 ![Nginx](/assets/svg/nginx.svg)
 ![Linux](/assets/svg/linux.svg)
 ![MongoDB](/assets/svg//mongodb.svg)
 ![Firebase](/assets/svg/firebase.svg)
-![GraphQL](/assets/svg/graphql.svg)
-![Postgresql](/assets/svg/postgresql.svg)
 ![Figma](/assets/svg/figma.svg)
 ![AWS](/assets/svg/aws.svg)
 ![GCP](/assets/svg/googlecloud.svg)
@@ -105,11 +87,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Peeking Under the Hood: How to List Your npm Packages](https://dev.to/manthanank/peeking-under-the-hood-how-to-list-your-npm-packages-205b)
-- [Getting Started with Angular: Installing and Creating Your First Project](https://dev.to/manthanank/getting-started-with-angular-installing-and-creating-your-first-project-2a16)
-- [Mastering Angular&#39;s New Control Flow with TypeScript Code Examples](https://dev.to/manthanank/mastering-angulars-new-control-flow-with-typescript-code-examples-1i96)
-- [Building an AI-Powered Image Studio App with Angular and Node.js](https://dev.to/manthanank/building-an-ai-powered-image-studio-app-with-angular-and-nodejs-5hmd)
-- [Building an AI-Powered Image Editor with Google&#39;s Gemini API](https://dev.to/manthanank/building-an-ai-powered-image-editor-with-googles-gemini-api-487m)
+- [Streamlit Dashboard: Let's analyse how Virat Kohli performs!](https://dev.to/dhanushdevadiga/streamlit-dashboard-lets-analyse-how-virat-kohli-performs-ian)
+- [Get Done ✅ : A step-by-step guide in building a Django To Do List](https://dev.to/dhanushdevadiga/get-done-a-step-by-step-guide-in-building-a-django-to-do-list-2jkd)
+- [Art of Story telling with Data Visualization](https://dev.to/dhanushdevadiga/data-visualization-eap)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
@@ -133,17 +114,16 @@ CSS          41 mins         ▓░░░░░░░░░░░░░░░░
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manthanank)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manthan_ank)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://manthanank.hashnode.dev/)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/manthanank)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://manthanank.medium.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manthan_ank/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/manthanank/](https://www.facebook.com/manthanank/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanushd1998/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/dhanushdevadiga)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d_d_devadiga/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dhanush1998)
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dhanushdevadiga98)
 
 ## Support me
 
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/manthanank)
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/dhanushdevadiga)
 [![Sponsor me](https://img.shields.io/badge/Sponsor%20me-FFDD00?style=for-the-badge&logo=github-sponsors&logoColor=white)]([https://github.com/sponsors/manthanank])
 
 ## License
