@@ -116,7 +116,7 @@ CSS          41 mins         ▓░░░░░░░░░░░░░░░░
 ## Support me
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/dhanushdevadiga)
-[![Sponsor me](https://img.shields.io/badge/Sponsor%20me-FFDD00?style=for-the-badge&logo=github-sponsors&logoColor=white)]([https://github.com/sponsors/dhanushd98])
+[![Sponsor me](https://img.shields.io/badge/Sponsor%20me-FFDD00?style=for-the-badge&logo=github-sponsors&logoColor=white)]([https://github.com/sponsors/dhanushd1998])
 
 ## License
 
