@@ -44,7 +44,7 @@ async function fetchWakaTimeStats() {
     path: `/api/v1/users/current/stats/last_7_days?api_key=${WAKATIME_API_KEY}`,
     method: 'GET',
     headers: {
-      'User-Agent': 'ManthanANK/Github-Profile',
+      'User-Agent': 'dhanushd1998/Github-Profile',
     },
   };
 

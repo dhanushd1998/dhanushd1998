@@ -1,5 +1,5 @@
 {
-  "name": "manthanank",
+  "name": "dhanushd1998",
   "version": "1.15.5",
   "description": "This is my GitHub Profile",
   "main": "index.js",
@@ -20,17 +20,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/manthanank/manthanank.git"
+    "url": "git+https://github.com/dhanushd1998/dhanushd1998.git"
   },
   "keywords": [
     "profile"
   ],
-  "author": "Manthan Ank",
+  "author": "Dhanush Devadiga",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/manthanank/manthanank/issues"
+    "url": "https://github.com/dhanushd1998/dhanushd1998/issues"
   },
-  "homepage": "https://github.com/manthanank/manthanank#readme",
+  "homepage": "https://github.com/dhanushd1998/dhanushd1998#readme",
   "devDependencies": {
     "eslint": "^8.54.0",
     "http-server": "^14.1.1",

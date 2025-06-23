@@ -1,5 +1,5 @@
 // GitHub username
-const username = 'manthanank';
+const username = 'dhanushd1998';
 
 // DOM Elements
 const avatarElement = document.getElementById('avatar');
@@ -78,7 +78,7 @@ async function fetchGitHubProfile() {
     return data;
   } catch (error) {
     console.error('Error fetching GitHub profile:', error);
-    nameElement.textContent = 'Manthan Ankolekar';
+    nameElement.textContent = 'Dhanush Devadiga';
     bioElement.textContent = 'Software Developer';
     return null;
   }

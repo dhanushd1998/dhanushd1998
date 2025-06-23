@@ -19,7 +19,7 @@ jobs:
       - name: update blogs
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dev.to/feed/manthanank, https://medium.com/feed/@manthanank"
+          feed_list: "https://dev.to/feed/dhanushdevadiga
 
       - name: wakatime language insights
         uses: athul/waka-readme@master

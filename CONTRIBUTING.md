@@ -1,4 +1,4 @@
-# Contributing to Manthan Ankolekar's Profile
+# Contributing to Dhanush Devadiga's Profile
 
 Thank you for your interest in contributing to this GitHub profile repository! This document provides guidelines and instructions for contributing.
 
@@ -70,8 +70,8 @@ Any other information about the enhancement
 
 1. Clone the repository
    ```
-   git clone https://github.com/manthanank/manthanank.git
-   cd manthanank
+   git clone https://github.com/dhanushd1998/dhanushd1998.git
+   cd dhanushd1998
    ```
 
 2. Install dependencies
@@ -119,7 +119,7 @@ By contributing to this project, you agree that your contributions will be licen
 
 ## Questions?
 
-If you have any questions, feel free to open an issue or contact Manthan Ankolekar directly.
+If you have any questions, feel free to open an issue or contact Dhanush Devadiga's directly.
 
 Thank you for contributing!
 
