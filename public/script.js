@@ -1,5 +1,7 @@
 // GitHub username
 const username = 'dhanushd1998';
+// Dev.to username
+const blogusername = 'dhanushdevadiga';
 
 // DOM Elements
 const avatarElement = document.getElementById('avatar');
@@ -162,7 +164,7 @@ async function fetchRepositories() {
 // Fetch blog posts from Dev.to
 async function fetchBlogPosts() {
   try {
-    const response = await fetch(`https://dev.to/api/articles?username=${username}&per_page=5`);
+    const response = await fetch(`https://dev.to/api/articles?username=${blogusername}&per_page=5`);
     if (!response.ok) throw new Error('Failed to fetch blog posts');
 
     const posts = await response.json();
