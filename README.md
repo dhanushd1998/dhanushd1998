@@ -79,6 +79,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Prompt an LLM to Write Angular Code: Straight from the Experts](https://dev.to/dhanushdevadiga/how-to-prompt-an-llm-to-write-angular-code-straight-from-the-experts-1po6)
+- [How do signals in Angular 20 simplify reactive programming for me](https://dev.to/dhanushdevadiga/how-do-signals-in-angular-20-simplify-reactive-programming-for-me-a8d)
 - [Streamlit Dashboard: Let's analyse how Virat Kohli performs!](https://dev.to/dhanushdevadiga/streamlit-dashboard-lets-analyse-how-virat-kohli-performs-ian)
 - [Get Done ✅ : A step-by-step guide in building a Django To Do List](https://dev.to/dhanushdevadiga/get-done-a-step-by-step-guide-in-building-a-django-to-do-list-2jkd)
 - [Art of Story telling with Data Visualization](https://dev.to/dhanushdevadiga/data-visualization-eap)
